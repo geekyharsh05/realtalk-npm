@@ -1,14 +1,23 @@
 {
-  "name": "realtalk",
+  "name": "@geekyharsh/realtalk",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
+  "keywords": [],
+  "homepage": "https://github.com/geekyharsh05/realtalk-npm#readme",
+  "bugs": {
+    "url": "https://github.com/geekyharsh05/realtalk-npm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekyharsh05/realtalk-npm.git"
+  },
+  "license": "ISC",
+  "author": "Harsh Vardhan Pandey",
+  "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "zod": "^3.24.2"
   },
